@@ -1,0 +1,1 @@
+# Sales-Summary-from-a-Tiny-SQLite-Database-using-Python-Movie-Success-Prediction-and-Sentiment-Study
